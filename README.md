@@ -16,6 +16,7 @@
 [![license](https://img.shields.io/badge/License-MIT-green.svg?labelColor=gray)](https://github.com/Medical-Event-Data-Standard/meds#license)
 [![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Medical-Event-Data-Standard/meds/pulls)
 [![contributors](https://img.shields.io/github/contributors/Medical-Event-Data-Standard/meds.svg)](https://github.com/Medical-Event-Data-Standard/meds/graphs/contributors)
+[![DOI](https://zenodo.org/badge/728366599.svg)](https://doi.org/10.5281/zenodo.17535826)
 
 ![The MEDS data schema](static/data_figure.svg)
 
