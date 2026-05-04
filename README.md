@@ -13,7 +13,7 @@
 [![codecov](https://codecov.io/gh/Medical-Event-Data-Standard/meds/graph/badge.svg?token=89SKXPKVRA)](https://codecov.io/gh/Medical-Event-Data-Standard/meds)
 [![tests](https://github.com/Medical-Event-Data-Standard/meds/actions/workflows/tests.yml/badge.svg)](https://github.com/Medical-Event-Data-Standard/meds/actions/workflows/tests.yml)
 [![code-quality](https://github.com/Medical-Event-Data-Standard/meds/actions/workflows/code-quality-main.yml/badge.svg)](https://github.com/Medical-Event-Data-Standard/meds/actions/workflows/code-quality-main.yml)
-[![license](https://img.shields.io/badge/License-MIT-green.svg?labelColor=gray)](https://github.com/Medical-Event-Data-Standard/meds#license)
+[![license](https://img.shields.io/badge/License-Apache_2.0-green.svg?labelColor=gray)](https://github.com/Medical-Event-Data-Standard/meds/blob/main/LICENSE)
 [![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Medical-Event-Data-Standard/meds/pulls)
 [![contributors](https://img.shields.io/github/contributors/Medical-Event-Data-Standard/meds.svg)](https://github.com/Medical-Event-Data-Standard/meds/graphs/contributors)
 [![DOI](https://zenodo.org/badge/728366599.svg)](https://doi.org/10.5281/zenodo.17535826)
